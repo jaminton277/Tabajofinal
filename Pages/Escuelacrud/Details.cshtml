@@ -1,0 +1,43 @@
+﻿@page
+@model RegistroMat2.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>escuela</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.escuela.nombre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.escuela.nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.escuela.direccion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.escuela.direccion)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.escuela.correo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.escuela.correo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.escuela.telefono)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.escuela.telefono)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.escuela.ID">Edit</a> |
+    <a asp-page="./Start">Back to List</a>
+</div>

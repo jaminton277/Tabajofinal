@@ -1,0 +1,49 @@
+﻿@page
+@model RegistroMat2.Pages.Maestrocrud.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>maestro</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.maestro.nombre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.maestro.nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.maestro.apellidos)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.maestro.apellidos)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.maestro.direccion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.maestro.direccion)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.maestro.correo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.maestro.correo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.maestro.telefono)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.maestro.telefono)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.maestro.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

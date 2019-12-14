@@ -1,0 +1,60 @@
+﻿@page
+@model RegistroMat2.Pages.Estudiantecrud.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>estudiante</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="estudiante.ID" />
+            <div class="form-group">
+                <label asp-for="estudiante.nombre" class="control-label"></label>
+                <input asp-for="estudiante.nombre" class="form-control" />
+                <span asp-validation-for="estudiante.nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="estudiante.apellidos" class="control-label"></label>
+                <input asp-for="estudiante.apellidos" class="form-control" />
+                <span asp-validation-for="estudiante.apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="estudiante.edad" class="control-label"></label>
+                <input asp-for="estudiante.edad" class="form-control" />
+                <span asp-validation-for="estudiante.edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="estudiante.correo" class="control-label"></label>
+                <input asp-for="estudiante.correo" class="form-control" />
+                <span asp-validation-for="estudiante.correo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="estudiante.direccion" class="control-label"></label>
+                <input asp-for="estudiante.direccion" class="form-control" />
+                <span asp-validation-for="estudiante.direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="estudiante.grado" class="control-label"></label>
+                <input asp-for="estudiante.grado" class="form-control" />
+                <span asp-validation-for="estudiante.grado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

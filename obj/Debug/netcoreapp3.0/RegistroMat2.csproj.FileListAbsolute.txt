@@ -1,0 +1,473 @@
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.exe
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.csprojAssemblyReference.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\staticwebassets\RegistroMat2.StaticWebAssets.Manifest.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\staticwebassets\RegistroMat2.StaticWebAssets.xml
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorAssemblyInfo.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorAssemblyInfo.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.AssemblyInfo.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.TagHelpers.input.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.TagHelpers.output.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorCoreGenerate.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorTargetAssemblyInfo.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorTargetAssemblyInfo.cs
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.csproj.CopyComplete
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.deps.json
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.runtimeconfig.json
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.runtimeconfig.dev.json
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.pdb
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.Views.dll
+C:\Users\David\source\repos\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.Views.pdb
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.Views.pdb
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.dll
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.pdb
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Create.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Delete.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Details.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Edit.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Index.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Create.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Delete.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Details.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Edit.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Index.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Create.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Delete.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Details.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Edit.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Index.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Create.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Delete.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Details.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Edit.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Index.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Create.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Delete.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Details.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Edit.cshtml.g.cs
+C:\Users\David\source\repos\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Index.cshtml.g.cs
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\appsettings.json
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.exe
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.deps.json
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.runtimeconfig.json
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.runtimeconfig.dev.json
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.pdb
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.Views.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.Views.pdb
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.csprojAssemblyReference.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\staticwebassets\RegistroMat2.StaticWebAssets.Manifest.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\staticwebassets\RegistroMat2.StaticWebAssets.xml
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.MvcApplicationPartsAssemblyInfo.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorAssemblyInfo.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorAssemblyInfo.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.AssemblyInfoInputs.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.AssemblyInfo.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.TagHelpers.input.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.TagHelpers.output.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorCoreGenerate.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Create.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Delete.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Details.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Edit.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Index.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Create.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Delete.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Details.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Edit.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Index.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Create.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Delete.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Details.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Edit.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Index.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Create.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Delete.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Details.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Edit.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Index.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Create.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Delete.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Details.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Edit.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Index.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorTargetAssemblyInfo.cache
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorTargetAssemblyInfo.cs
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.Views.pdb
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.csproj.CopyComplete
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.dll
+E:\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.pdb
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.exe
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.deps.json
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.runtimeconfig.json
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.runtimeconfig.dev.json
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.pdb
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.Views.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\RegistroMat2.Views.pdb
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.csprojAssemblyReference.cache
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\staticwebassets\RegistroMat2.StaticWebAssets.Manifest.cache
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\staticwebassets\RegistroMat2.StaticWebAssets.xml
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorAssemblyInfo.cache
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorAssemblyInfo.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.AssemblyInfoInputs.cache
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.AssemblyInfo.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.TagHelpers.input.cache
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.TagHelpers.output.cache
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorCoreGenerate.cache
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Create.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Delete.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Details.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Edit.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Escuelacrud\Index.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Create.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Delete.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Details.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Edit.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Estudiantecrud\Index.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Create.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Delete.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Details.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Edit.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Maestrocrud\Index.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Create.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Delete.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Details.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Edit.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Registrocrud\Index.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Create.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Delete.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Details.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Edit.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Seccioncrud\Index.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorTargetAssemblyInfo.cache
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.RazorTargetAssemblyInfo.cs
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.Views.pdb
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.csproj.CopyComplete
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.pdb
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Jaminton Delgadillo\Desktop\RegistroMat2\obj\Debug\netcoreapp3.0\RegistroMat2.MvcApplicationPartsAssemblyInfo.cache
